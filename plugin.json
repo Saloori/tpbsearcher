@@ -1,6 +1,8 @@
 {
-"title": "Repositório saloori",
-"plugins":[
+"version": 1,
+"title": "Repo saloori",
+"plugins":
+[
 {
   "description": "Plugin fork para pesquisar e reproduzir link magneticos e arquivos torrents do The Pirate Bay no Movian (Showtime Media Center)",
   "author": "Wain PC , HackZy01, por Saloori",
