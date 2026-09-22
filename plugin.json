@@ -14,7 +14,7 @@
   "showtimeVersion": "4.9.389",
   "type": "ecmascript",
   "icon": "https://raw.githubusercontent.com/Saloori/movian-thepiratebay/master/logo.png",
-  "downloadURL": "https://raw.githubusercontent.com/Saloori/movian-thepiratebay/main/plugins.json",
+  "downloadURL": "https://raw.githubusercontent.com/Saloori/movian-thepiratebay/master/plugins.json",
   "id": "tpbsearcher",
   "category": "video"
 }
