@@ -1,9 +1,4 @@
 {
-"version": 1,
-"title": "Repo saloori",
-"plugins":
-[
-{
   "description": "Plugin fork para pesquisar e reproduzir link magneticos e arquivos torrents do The Pirate Bay no Movian (Showtime Media Center)",
   "author": "Wain PC , HackZy01, por Saloori",
   "homepage": "https://github.com/Saloori",
@@ -13,10 +8,7 @@
   "file": "main.js",
   "showtimeVersion": "4.9.389",
   "type": "ecmascript",
-  "icon": "https://raw.githubusercontent.com/Saloori/movian-thepiratebay/master/logo.png",
-  "downloadURL": "https://cdn.jsdelivr.net/gh/Saloori/movian-thepiratebay@master/plugin.json",
+  "icon": "logo.png",
   "id": "tpbsearcher",
   "category": "video"
-}
-]
 }
